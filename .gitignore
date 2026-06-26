@@ -1,0 +1,11 @@
+build/
+gamejam
+*.o
+*.d
+
+# Raylib source (clone separately for web builds)
+raylib/
+
+# Web build artifacts
+obj-web/
+web/
